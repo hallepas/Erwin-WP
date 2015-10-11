@@ -1,0 +1,1 @@
+[09-Oct-2015 20:54:54 UTC] WordPress-Datenbank-Fehler Table 'c9.wp_events' doesn't exist für Abfrage DELETE FROM `wp_events` WHERE `thetime` <= 1444344894 AND `archive` = 'no' von activate_plugin, include_once('/plugins/wp-events/wp-events.php'), events_clear_old
